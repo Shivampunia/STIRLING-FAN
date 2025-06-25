@@ -86,7 +86,9 @@ W = nR(TH - TC) * ln(Vmax / Vmin)
 )         |
 | Exploded View     | ![](![image](https://github.com/user-attachments/assets/0380ed41-1047-4622-aee6-1048727cdb24)
 )              |
-| Motion Simulation | ![]()          |
+| Motion Simulation | ![](![sterling fan video (3)](https://github.com/user-attachments/assets/757e8985-acdc-4613-b772-5855eeb7358b)
+)
+)          |
 | Components        | ![](![WhatsApp Image 2025-06-25 at 5 54 19 PM](https://github.com/user-attachments/assets/ec9ce122-5dbb-4807-ae12-73a89567faf6)
 )       |
 
