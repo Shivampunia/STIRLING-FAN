@@ -1,7 +1,7 @@
 # STIRLING-FAN
 # 🌀 Stirling Engine Fan – CAD Design Project
 
-![Stirling Engine Render](![WhatsApp Image 2025-06-25 at 5 23 55 PM](https://github.com/user-attachments/assets/926d94cd-24cd-4d0e-8628-383554c850f8)
+(![WhatsApp Image 2025-06-25 at 5 23 55 PM](https://github.com/user-attachments/assets/926d94cd-24cd-4d0e-8628-383554c850f8)
 
 ) <!-- Replace with actual CAD render -->
 
